@@ -1,0 +1,101 @@
+id,title,keywords,rating,solved
+1917F,Construct Tree,"bitmasks, constructive algorithms, dp, trees",,110
+1917E ,Construct Matrix,"constructive algorithms, math",,238
+1917D,Yet Another Inversions Problem,"bitmasks, data structures, math",,450
+1917C,Watering an Array,"brute force, greedy, implementation, math",,3143
+1917B,Erase First or Second Letter,"brute force, combinatorics, dp, strings",,8773
+1917A,Least Product,"constructive algorithms, math",,12642
+1914G2,Light Bulbs (Hard Version),"combinatorics, data structures, dfs and similar, dp, graphs, hashing",,642
+1914G1,Light Bulbs (Easy Version),"brute force, combinatorics, dfs and similar, dp, dsu, graphs, math",,924
+1914F,Programming Competition,"dfs and similar, dp, graph matchings, greedy, trees",,2095
+1914E 2,Game with Marbles (Hard Version),"games, greedy, sortings",,7109
+1914E 1,Game with Marbles (Easy Version),"brute force, games, greedy, sortings",,7268
+1914D,Three Activities,"brute force, dp, greedy, implementation, sortings",,11357
+1914C,Quests,"greedy, math",,13909
+1914B,Preparing for the Contest,"constructive algorithms, math",,21134
+1914A,Problemsolving Log,"implementation, strings",,22053
+1913F,Palindromic Problem,"binary search, data structures, hashing, string suffix structures, strings",,156
+1913E ,Matrix Problem,"flows, graphs",,537
+1913D,Array Collapse,"data structures, divide and conquer, dp, trees",,1633
+1913C,Game with Multiset,"binary search, bitmasks, brute force, greedy",,9341
+1913B,Swap and Delete,strings,,13264
+1913A,Rating Increase,implementation,,17143
+1912L,LOL Lovers,strings,800,3807
+1912K,Kim's Quest,"bitmasks, combinatorics, dp",1800,1060
+1912J,Joy of Pokémon Observation,,2300,341
+1912I,Innovative Washing Machine,"geometry, math, two pointers",3300,31
+1912H,Hypercatapult Commute,graphs,2400,233
+1912G,Great City Saint Petersburg,data structures,2400,271
+1912F,Fugitive Frenzy,"math, probabilities",3100,61
+1912E ,Evaluate It and Back Again,"constructive algorithms, implementation, math",2200,465
+1912D,Divisibility Test,math,1900,772
+1912C,Cactus Transformation,constructive algorithms,3300,29
+1912B,Blueprint for Seating,"combinatorics, divide and conquer, math",2000,551
+1912A,Accumulator Apex,"data structures, implementation, sortings",1800,1083
+1910J,Two Colors,*special problem,2900,22
+1910I,Inverse Problem,"*special problem, combinatorics, dp",2700,24
+1910H,Sum of Digits of Sums,"*special problem, binary search, data structures",2400,58
+1910G,Pool Records,"*special problem, greedy",2700,34
+1910F,Build Railway Stations,"*special problem, greedy, trees",2000,119
+1910E ,Maximum Sum Subarrays,"*special problem, dp",2100,118
+1910D,Remove and Add,"*special problem, greedy",1800,214
+1910C,Poisonous Swamp,"*special problem, *special problem, implementation, implementation",1600,404
+1910B,Security Guard,"*special problem, greedy",1700,436
+1910A,Username,"*special problem, implementation",1100,1015
+1909I,Short Permutation Problem,"combinatorics, dp, fft, math",,15
+1909H,Parallel Swaps Sort,"constructive algorithms, data structures",,10
+1909G,Pumping Lemma,"hashing, string suffix structures, strings",,104
+1909F2,Small Permutation Problem (Hard Version),"combinatorics, dp, math",,396
+1909F1,Small Permutation Problem (Easy Version),"combinatorics, dp, math",,964
+1909E ,Multiple Lamps,"bitmasks, brute force, constructive algorithms, number theory",,684
+1909D,Split Plus K,"greedy, math, number theory",,2222
+1909C,Heavy Intervals,"constructive algorithms, data structures, dsu, greedy, math, sortings",,5971
+1909B,Make Almost Equal With Mod,"constructive algorithms, math, number theory",,8046
+1909A,Distinct Buttons,"implementation, math",,11472
+1907G,Lights,"brute force, constructive algorithms, dfs and similar, graphs, greedy, implementation",2200,1356
+1907F,Shift and Reverse,"greedy, sortings",1800,3300
+1907E ,Good Triples,"brute force, combinatorics, number theory",1600,6461
+1907D,Jumping Through Segments,"binary search, constructive algorithms",1400,8808
+1907C,Removal of Unattractive Pairs,"constructive algorithms, greedy, math, strings",1100,14405
+1907B,YetnotherrokenKeoard,"data structures, implementation, strings",1000,18348
+1907A,Rook,implementation,800,28037
+1906M,Triangle Construction,"greedy, math",1700,1463
+1906L,Palindromic Parentheses,constructive algorithms,2500,309
+1906K,Deck-Building Game,"divide and conquer, math",2500,188
+1906J,Count BFS Graph,"combinatorics, dp",2100,443
+1906I,Contingency Plan 2,graph matchings,2900,88
+1906H,Twin Friends,"combinatorics, dp",2200,433
+1906G,Grid Game 2,"games, number theory",2900,85
+1906F,Maximize The Value,"data structures, sortings",2000,663
+1906E ,Merge Not Sort,"constructive algorithms, dp",1900,895
+1906D,Spaceship Exploration,"binary search, geometry",2800,41
+1906C,Cursed Game,interactive,3000,84
+1906B,Button Pressing,"bitmasks, constructive algorithms, hashing",2600,289
+1906A,Easy As ABC,brute force,1000,2180
+1905F,Field Should Not Be Empty,"brute force, data structures, divide and conquer",,244
+1905E ,One-X,"combinatorics, dfs and similar, dp, math, trees",,499
+1905D,Cyclic MEX,"data structures, implementation, math, two pointers",,2373
+1905C,Largest Subsequence,"greedy, strings",,7853
+1905B,Begginer's Zelda,"greedy, trees",,11972
+1905A,Constructive Problems,"constructive algorithms, math",,17679
+1904F,Beautiful Tree,"data structures, dfs and similar, graphs, implementation, trees",,193
+1904E ,Tree Queries,"data structures, dfs and similar, graphs, implementation, trees",,506
+1904D2,Set To Max (Hard Version),"constructive algorithms, data structures, divide and conquer, greedy, implementation, sortings",,2548
+1904D1,Set To Max (Easy Version),"brute force, constructive algorithms, greedy",,3685
+1904C,Array Game,"binary search, brute force, data structures, sortings, two pointers",,6856
+1904B,Collecting Game,"binary search, dp, greedy, sortings, two pointers",,8749
+1904A,Forked!,"brute force, implementation",,10587
+1903F,Babysitting,"2-sat, binary search, data structures, graphs, trees",2500,378
+1903E ,Geo Game,"greedy, interactive, math",2000,1393
+1903D2,Maximum And Queries (hard version),"bitmasks, divide and conquer, dp, greedy",2500,509
+1903D1,Maximum And Queries (easy version),"binary search, bitmasks, brute force, greedy",1700,3864
+1903C,Theofanis' Nightmare,"constructive algorithms, greedy",1400,7909
+1903B,StORage room,"bitmasks, brute force, constructive algorithms, greedy",1200,8857
+1903A,Halloumi Boxes,"brute force, greedy, sortings",800,14969
+1902F,Trees and XOR Queries Again,"data structures, dfs and similar, divide and conquer, graphs, implementation, math, trees",2400,700
+1902E ,Collapsing Strings,"data structures, strings, trees",1900,2965
+1902D,Robot Queries,"binary search, data structures, dp, implementation",1900,2921
+1902C,Insert and Equalize,"brute force, constructive algorithms, greedy, math, number theory",1300,9346
+1902B,Getting Points,"binary search, brute force, greedy",1100,10949
+1902A,Binary Imbalance,constructive algorithms,800,16945
+1901F,Landscaping,"binary search, geometry, two pointers",2900,119
